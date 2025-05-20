@@ -2,6 +2,8 @@
 
 A Chrome extension that watches for specific text on web pages and notifies you when it appears.
 
+I wrote it with the help of Cursor in 1 hour. Any bugs are Cursor's fault :D
+
 ## Features
 
 - Watch for specific text on any webpage
